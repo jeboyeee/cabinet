@@ -59,7 +59,8 @@ button, .button {
 }
 
 a {
-	color: $green;
+	color: black;
+	margin-right: 20px;
 	text-decoration: none;
 	&:hover {
 		color: $dark_gray;
